@@ -1,4 +1,4 @@
-# Hi, I'm Johnny 👋
+# Hi, I'm John 👋
 
 I'm a Business Informatics graduate from FH Kiel and work as a software developer focusing on data processing, search and AI. I enjoy building reliable pipelines that turn messy XML/JSON into clean, searchable and analysable data.
 
